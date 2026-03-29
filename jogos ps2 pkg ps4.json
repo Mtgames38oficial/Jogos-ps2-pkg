@@ -1,22 +1,22 @@
 {
-    "DATA": {
-        "https://archive.org/download/games_20260131/Bully.pkg": {
-            "region": "USA",
-            "name": "Bully",
-            "version": "1.00",
-            "release": "03-04-2008",
-            "size": 2380000000,
-            "min_fw": null,
-            "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFylRkS7EhvEQrQqsOWUP3_Mj4pbRv8RAuNoQHTelRf99CpKwWp4-grO0x7eXjrtq1Ys0uNkw_gV6hr6VPvagMVCOB3UZkALD5i8poy3LxmIB_DrQDUVRndov3Hp3_nkAWTDFaDioNp1oVrW7406oDicMcLcuEt0laK4ZY8j6OSe7k9xRbuQoxvsj7Gc/s320/Bully.jpg"
-          {,
-            "https://archive.org/download/games_20260131/50Cent.pkg": {
-            "region": "USA",
-            "name": "50 Cent",
-            "version": "1.00",
-            "release": "03-04-2008",
-            "size": 5540000000,
-            "min_fw": null,
-            "cover_url": "https://upload.wikimedia.org/wikipedia/en/2/28/50_Cent_Bulletproof.jpg"
-        }
+  "DATA": {
+    "https://archive.org/download/games_20260131/Bully.pkg": {
+      "region": "USA",
+      "name": "Bully",
+      "version": "1.00",
+      "release": "2008-04-03",
+      "size_gb": 2.38,
+      "min_fw": "0.00",
+      "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFylRkS7EhvEQrQqsOWUP3_Mj4pbRv8RAuNoQHTelRf99CpKwWp4-grO0x7eXjrtq1Ys0uNkw_gV6hr6VPvagMVCOB3UZkALD5i8poy3LxmIB_DrQDUVRndov3Hp3_nkAWTDFaDioNp1oVrW7406oDicMcLcuEt0laK4ZY8j6OSe7k9xRbuQoxvsj7Gc/s320/Bully.jpg"
+    },
+    "https://archive.org/download/games_20260131/50Cent.pkg": {
+      "region": "USA",
+      "name": "50 Cent: Bulletproof",
+      "version": "1.00",
+      "release": "2008-04-03",
+      "size_gb": 5.54,
+      "min_fw": "0.00",
+      "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/50_Cent_Bulletproof.jpg/220px-50_Cent_Bulletproof.jpg"
     }
+  }
 }
