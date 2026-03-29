@@ -8,6 +8,15 @@
             "size": 2380000000,
             "min_fw": null,
             "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFylRkS7EhvEQrQqsOWUP3_Mj4pbRv8RAuNoQHTelRf99CpKwWp4-grO0x7eXjrtq1Ys0uNkw_gV6hr6VPvagMVCOB3UZkALD5i8poy3LxmIB_DrQDUVRndov3Hp3_nkAWTDFaDioNp1oVrW7406oDicMcLcuEt0laK4ZY8j6OSe7k9xRbuQoxvsj7Gc/s320/Bully.jpg"
+        {,
+        "https://archive.org/download/games_20260131/50Cent.pkg": {
+            "region": "USA",
+            "name": "Bully",
+            "version": "1.00",
+            "release": "03-04-2008",
+            "size": 2380000000,
+            "min_fw": null,
+            "cover_url": "https://en.wikipedia.org/wiki/50_Cent:_Bulletproof"
         }
     }
 }
