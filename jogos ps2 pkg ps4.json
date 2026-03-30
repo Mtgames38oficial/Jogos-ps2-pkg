@@ -4,19 +4,19 @@
       "region": "USA",
       "name": "Bully",
       "version": "1.00",
-      "release": "2008-04-03",
-      "size_gb": 2.38,
-      "min_fw": "0.00",
+      "release": "03-04-2008",
+      "size": 2380000000,
+      "min_fw": null,
       "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFylRkS7EhvEQrQqsOWUP3_Mj4pbRv8RAuNoQHTelRf99CpKwWp4-grO0x7eXjrtq1Ys0uNkw_gV6hr6VPvagMVCOB3UZkALD5i8poy3LxmIB_DrQDUVRndov3Hp3_nkAWTDFaDioNp1oVrW7406oDicMcLcuEt0laK4ZY8j6OSe7k9xRbuQoxvsj7Gc/s320/Bully.jpg"
     },
-    "http://archive.org/download/games_20260131/50Cent.pkg": {
+    "https://archive.org/download/games_20260131/50Cent.pkg": {
       "region": "USA",
-      "name": "50 Cent: Bulletproof",
+      "name": "50 Cent",
       "version": "1.00",
-      "release": "2008-04-03",
-      "size_gb": 5.54,
-      "min_fw": "0.00",
-      "cover_url": "https://preview.redd.it/50-cent-add-the-game-to-ps5-v0-n40xqrjv0hcd1.jpeg?auto=webp&s=73de8b25422c54e1b009adf8d5385184bcd57177"
+      "release": "03-04-2008",
+      "size": 5540000000,
+      "min_fw": null,
+      "cover_url": "https://en.wikipedia.org/wiki/50_Cent:_Bulletproof"
     }
   }
 }
