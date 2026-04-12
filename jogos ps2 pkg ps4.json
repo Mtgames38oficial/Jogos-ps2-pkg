@@ -38,12 +38,12 @@
     },
     "https://archive.org/download/games_20260131/god1.pkg": {
       "region": "USA",
-      "name": "God of War",
+      "name": "God of War 1",
       "version": "1.00",
       "release": "22-03-2005",
       "size": 3650722201,
       "min_fw": null,
-      "cover_url": "https://m.media-amazon.com/images/I/71JKbKWJBVL._AC_UF1000,1000_QL80_.jpg"
+      "cover_url": "https://m.media-amazon.com/images/I/91r-UP3xV7L.jpg"
     }
   }
 }
