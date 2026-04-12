@@ -17,6 +17,15 @@
       "size": 5540000000,
       "min_fw": null,
       "cover_url": "https://preview.redd.it/50-cent-add-the-game-to-ps5-v0-n40xqrjv0hcd1.jpeg?auto=webp&s=73de8b25422c54e1b009adf8d5385184bcd57177"
+    },
+    "https://archive.org/download/games_20260131/Dragonballbt3.pkg": {
+      "region": "USA",
+      "name": "Dragon Ball Budokai Tenkaichi 3",
+      "version": "1.00",
+      "release": "04-10-2007",
+      "size": 3221225472,
+      "min_fw": null,
+      "cover_url": "https://www.speedrun.com/static/game/w6jlwj5d/cover.png?v=7c55d15"
     }
   }
 }
