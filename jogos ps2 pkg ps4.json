@@ -35,6 +35,15 @@
       "size": 1181116006,
       "min_fw": null,
       "cover_url": "https://upload.wikimedia.org/wikipedia/pt/a/ad/Black_cover_art.jpg"
+    },
+    "https://archive.org/download/games_20260131/god1.pkg": {
+      "region": "USA",
+      "name": "God of War",
+      "version": "1.00",
+      "release": "22-03-2005",
+      "size": 3650722201,
+      "min_fw": null,
+      "cover_url": "https://m.media-amazon.com/images/I/71JKbKWJBVL._AC_UF1000,1000_QL80_.jpg"
     }
   }
 }
