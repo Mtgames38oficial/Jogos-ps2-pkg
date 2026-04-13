@@ -1,14 +1,5 @@
 {
   "DATA": {
-    "https://archive.org/download/games_20260131/Bully.pkg": {
-      "region": "USA",
-      "name": "Bully",
-      "version": "1.00",
-      "release": "03-04-2008",
-      "size": 2380000000,
-      "min_fw": null,
-      "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFylRkS7EhvEQrQqsOWUP3_Mj4pbRv8RAuNoQHTelRf99CpKwWp4-grO0x7eXjrtq1Ys0uNkw_gV6hr6VPvagMVCOB3UZkALD5i8poy3LxmIB_DrQDUVRndov3Hp3_nkAWTDFaDioNp1oVrW7406oDicMcLcuEt0laK4ZY8j6OSe7k9xRbuQoxvsj7Gc/s320/Bully.jpg"
-    },
     "https://archive.org/download/games_20260131/50Cent.pkg": {
       "region": "USA",
       "name": "50 Cent",
@@ -17,15 +8,6 @@
       "size": 5540000000,
       "min_fw": null,
       "cover_url": "https://preview.redd.it/50-cent-add-the-game-to-ps5-v0-n40xqrjv0hcd1.jpeg?auto=webp&s=73de8b25422c54e1b009adf8d5385184bcd57177"
-    },
-    "https://archive.org/download/games_20260131/Dragonballbt3.pkg": {
-      "region": "USA",
-      "name": "Dragon Ball Budokai Tenkaichi 3",
-      "version": "1.00",
-      "release": "04-10-2007",
-      "size": 3221225472,
-      "min_fw": null,
-      "cover_url": "https://www.speedrun.com/static/game/w6jlwj5d/cover.png?v=7c55d15"
     },
     "https://archive.org/download/games_20260131/black.pkg": {
       "region": "USA",
@@ -36,6 +18,24 @@
       "min_fw": null,
       "cover_url": "https://upload.wikimedia.org/wikipedia/pt/a/ad/Black_cover_art.jpg"
     },
+    "https://archive.org/download/games_20260131/Bully.pkg": {
+      "region": "USA",
+      "name": "Bully",
+      "version": "1.00",
+      "release": "03-04-2008",
+      "size": 2380000000,
+      "min_fw": null,
+      "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFylRkS7EhvEQrQqsOWUP3_Mj4pbRv8RAuNoQHTelRf99CpKwWp4-grO0x7eXjrtq1Ys0uNkw_gV6hr6VPvagMVCOB3UZkALD5i8poy3LxmIB_DrQDUVRndov3Hp3_nkAWTDFaDioNp1oVrW7406oDicMcLcuEt0laK4ZY8j6OSe7k9xRbuQoxvsj7Gc/s320/Bully.jpg"
+    },
+    "https://archive.org/download/games_20260131/Dragonballbt3.pkg": {
+      "region": "USA",
+      "name": "Dragon Ball Budokai Tenkaichi 3",
+      "version": "1.00",
+      "release": "04-10-2007",
+      "size": 3221225472,
+      "min_fw": null,
+      "cover_url": "https://www.speedrun.com/static/game/w6jlwj5d/cover.png?v=7c55d15"
+    },
     "https://archive.org/download/games_20260131/god1.pkg": {
       "region": "USA",
       "name": "God of War 1",
@@ -44,6 +44,15 @@
       "size": 3650722201,
       "min_fw": null,
       "cover_url": "https://m.media-amazon.com/images/I/91r-UP3xV7L.jpg"
+    },
+    "https://archive.org/download/games_20260131/god2.pkg": {
+      "region": "USA",
+      "name": "God of War 2",
+      "version": "1.00",
+      "release": "13-03-2007",
+      "size": 7516192768,
+      "min_fw": null,
+      "cover_url": "https://m.media-amazon.com/images/I/71JKbKWJBVL._AC_UF1000,1000_QL80_.jpg"
     }
   }
 }
