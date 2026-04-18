@@ -62,6 +62,15 @@
       "size": 7516192768,
       "min_fw": null,
       "cover_url": "https://m.media-amazon.com/images/I/71JKbKWJBVL._AC_UF1000,1000_QL80_.jpg"
+    },
+    "https://archive.org/download/games_20260131/guitarhero2.pkg": {
+      "region": "USA",
+      "name": "Guitar hero 2",
+      "version": "1.0",
+      "release": "17/04/2026",
+      "size": 3435973836,
+      "min_fw": null,
+      "cover_url": "https://bdjogos.com.br/capas/18319-guitar-hero-ii-playstation-2-capa-1.jpg"
     }
   }
 }
